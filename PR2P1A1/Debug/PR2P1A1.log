@@ -1,0 +1,4 @@
+﻿  PR2P1A1.cpp
+c:\users\kamer001\desktop\uni\programmieren\programmieren_2\p1\pr2p1a1\pr2p1a1.cpp(23): warning C4244: "=": Konvertierung von "time_t" in "int", möglicher Datenverlust
+  PR2P1A1.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren_2\P1\PR2P1A1\Debug\PR2P1A1.exe
+  PR2P1A1.vcxproj -> C:\Users\kamer001\Desktop\Uni\Programmieren\Programmieren_2\P1\PR2P1A1\Debug\PR2P1A1.pdb (Partial PDB)
